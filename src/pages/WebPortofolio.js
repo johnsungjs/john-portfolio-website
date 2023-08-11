@@ -19,11 +19,6 @@ export default function WebPortofolio() {
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="relative mt-10 lg:mt-9 lg:right-0">
                 <img src="/images/burungretBgRemove.png" alt="burung" className="max-w-full mx-auto" />
-                <span className="absolute -bottom-28 -z-10 left-1/2 -translate-x-1/2 md:scale-125">
-                  <svg width="400" height="400" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                    <path fill="#14b8a5" d="M41,-22.4C44.6,-2.1,33.3,14.1,20.9,21.3C8.6,28.5,-4.8,26.7,-15.9,19.3C-27,11.9,-35.8,-1.3,-32.8,-20.8C-29.7,-40.2,-14.9,-65.9,1.9,-66.5C18.7,-67.1,37.3,-42.7,41,-22.4Z" transform="translate(100 100) scale(0.7)" />
-                  </svg>
-                </span>
               </div>
             </div>
           </div>
